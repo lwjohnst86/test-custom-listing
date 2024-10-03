@@ -1,0 +1,9 @@
+<% for (const item of items) { %>
+## <%= item.section %>
+
+<% for (const entry of item.entries) { %>
+<%= entry.title %>
+:  <%= entry.start %>
+:  <%= entry.end %>
+<% } %>
+<% } %>

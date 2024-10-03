@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test",
+    "section": "",
+    "text": "Subsection\n\n2022-12-01\n\n\n2022-12-01\n\n\n\n\n\n\nSubsection 3\n\n2022-12-01\n\n\n2022-12-02\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#test-section",
+    "href": "index.html#test-section",
+    "title": "test",
+    "section": "",
+    "text": "Subsection\n\n2022-12-01\n\n\n2022-12-01"
+  },
+  {
+    "objectID": "index.html#test-section-231",
+    "href": "index.html#test-section-231",
+    "title": "test",
+    "section": "",
+    "text": "Subsection 3\n\n2022-12-01\n\n\n2022-12-02\n\n\n\nNo matching items"
+  }
+]

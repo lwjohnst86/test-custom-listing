@@ -1,0 +1,13 @@
+---
+date-format: "medium"
+listing:
+  - id: sections
+    template: sections.ejs
+    contents: data.yml
+    field-types:
+      entries.start: date
+      entries.end: date
+---
+
+::: {#sections}
+:::
